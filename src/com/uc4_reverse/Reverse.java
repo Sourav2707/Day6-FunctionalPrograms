@@ -4,7 +4,7 @@ public class Reverse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");
-        int n = sc.nextInt()
+        int n = sc.nextInt();
         int rem = 0, rev = 0;
         while (n != 0)
         {
