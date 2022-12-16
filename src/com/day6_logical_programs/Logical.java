@@ -1,4 +1,4 @@
-package com.day_logical_programs;
+package com.day6_logical_programs;
 
 public class Logical {
     public static void main(String[] args) {
